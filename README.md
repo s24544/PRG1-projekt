@@ -2,7 +2,7 @@
 ## Windows 10/Windows 11
 ### C++14
 Uproszczona gra saper
-Zasady gry:
+### Zasady gry:
 - plansza o wymiarach 30x30 pól pokazywana w konsoli windows
 - na planszy znajduje się 15 min
 - zadaniem gracza jest oznaczenie pól, na których znajdują się miny
